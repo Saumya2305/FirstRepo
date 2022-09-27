@@ -1,1 +1,11 @@
 heloo welcome to my firsrt repo!!
+
+
+if(10%2==0)
+{
+console.log("even");
+}
+else
+{
+console.log("sorry");
+}
